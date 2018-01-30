@@ -26,4 +26,4 @@ Blockchain MaaS
 ## Dapp params
 An example of a iexec.js conf
 ## [Examples](./examples)
-A link to all iexec.js conf examples for the dapp.
+A link to all iexec.js conf examples for the dapp. 
