@@ -20,8 +20,9 @@ Start a [Pull Request](https://github.com/iExecBlockchainComputing/iexec-dapp-sa
 
 ---
 # My Dapp name
+parkhere
 ## Description
-My Dapp description here...
+Blockchain MaaS
 ## Dapp params
 An example of a iexec.js conf
 ## [Examples](./examples)
